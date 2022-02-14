@@ -1,2 +1,2 @@
-﻿name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Elier Gonzales Hernandez,https://lh3.googleusercontent.com/-wC6EiRAFU70/YG3MwFzx5bI/AAAAAAAAADM/_8E9DOUZTcsckqDGMponNfrQ2wHjdLzAACLcBGAsYHQ/ELIER%2BGONZALEZ%2BHERNANDEZ.JPG,Corporate,http://example.com/employee/profile,CTO office,""Ceo,tag1,manager,cto"",false,Chief Executive Officer ,O-6066,,
+name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+Ian Devling,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",false,Chief Executive Officer ,O-6066,,
